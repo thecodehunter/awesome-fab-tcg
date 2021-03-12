@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Awesome Flesh and Blood TCG</title>
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/2.0.1/marked.min.js"></script>
+</head>
+<body>
+    <div class="header">
+        <img src="logo.svg" alt="Awesome FAB TCG Logo"/>
+    </div>
+    <div id="content"></div>
+<script>
+    (function() {
+        fetch('https://raw.githubusercontent.com/thecodehunter/awesome-fab-tcg/main/README.md', {mode:'cors'})
+        .then(resp => resp.text())
+        .then(result => document.getElementById('content').innerHTML = marked(result));
+    })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+body{
+    font-family: 'Metropolis-Regular';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    color: #ff0066
+}
+
+.header {
+    display: flex;
+    margin: 20px 0px 20px 0px;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 10px;
+    max-width: 800px;
+}
+
+
+@font-face {
+    font-family: 'Metropolis-Regular';
+    src:url('fonts/Metropolis-Regular.ttf.woff') format('woff'),
+        url('fonts/Metropolis-Regular.ttf.svg#Metropolis-Regular') format('svg'),
+        url('fonts/Metropolis-Regular.ttf.eot'),
+        url('fonts/Metropolis-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
