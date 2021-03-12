@@ -8,12 +8,16 @@ body{
 h1{
     color: #ff0066;
 }
+h2, h3, h4 {
+    margin-top: 50px;
+}
 
 .header {
     margin: 20px 0px 20px 0px;
 }
 
 #content {
+    line-height: 1.5;
     margin-top: 10px;
     max-width: 800px;
 }
