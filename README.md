@@ -88,7 +88,8 @@ Please note that *most of these stores have worldwide shipping* and the list bel
 
 ##### Asia / Oceanian
 
-- [FAB Armory](https://fabarmory.com)
+* [FAB Armory](https://fabarmory.com)
+
 * [Rathe Shop](https://www.rathe.shop)
 
 * [HobbyMaster](https://hobbymaster.co.nz)
