@@ -9,23 +9,14 @@ h1{
     color: #ff0066;
 }
 
-p {
-    display: flex;
-}
-
 .header {
-    display: flex;
     margin: 20px 0px 20px 0px;
 }
 
 #content {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
     margin-top: 10px;
     max-width: 800px;
 }
-
 
 @font-face {
     font-family: 'Metropolis-Regular';
