@@ -1,4 +1,4 @@
-<span style="color:#ff0066">## Welcome to Awesome FaB</span>
+## Welcome to Awesome FaB
 
 Awesome FaB is a list of curated resources for the Flesh and Blood TCG.
 PR's are welcome :)
