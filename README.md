@@ -58,46 +58,45 @@ https://www.fabtcg.com
 
 **Be smart and support your LGS first.**
 
-Please note that *most of these stores have worldwide shipping* and the list below is curated from positive feedback on the community and personal experience, stores without proof of reliability or high popular reviews won't be accepted here.
+Please note that *most of these stores have worldwide shipping* and the list below is curated from positive feedback on the community and personal experience, stores without proof of reliability or high popular reviews won't be included.
 
-###### United States
+##### United States
 
-[FAB Foundry](https://www.fabfoundry.co)
+* [FAB Foundry](https://www.fabfoundry.co)
 
-[Channel Fireball](https://shop.channelfireball.com)
+* [Channel Fireball](https://shop.channelfireball.com)
 
-[TCG Player](https://shop.tcgplayer.com/flesh-and-blood-tcg)
+* [TCG Player](https://shop.tcgplayer.com/flesh-and-blood-tcg)
 
-[Midtown Merchant](https://midtownmerchant.com)
+* [Midtown Merchant](https://midtownmerchant.com)
 
-[Team Convenant](https://teamcovenant.com)
+* [Team Convenant](https://teamcovenant.com)
 
-[Troll and Toad](https://www.trollandtoad.com)
+* [Troll and Toad](https://www.trollandtoad.com)
 
-###### EU
+##### EU
 
-[FAB Heroes](https://fabheroes.com)
+* [FAB Heroes](https://fabheroes.com)
 
-[Kai of Cards](https://kaiofcards.com)
+* [Kai of Cards](https://kaiofcards.com)
 
-[Azkaban Juegos](https://azkabanjuegos.com)
+* [Azkaban Juegos](https://azkabanjuegos.com)
 
-[Kelostrada](https://kelostrada.pl)
+* [Kelostrada](https://kelostrada.pl)
 
-[Total Cards](https://www.totalcards.net)
+* [Total Cards](https://www.totalcards.net)
 
-###### Asia / Oceanian
+##### Asia / Oceanian
 
-[FAB Armory](https://fabarmory.com)
+- [FAB Armory](https://fabarmory.com)
+* [Rathe Shop](https://www.rathe.shop)
 
-[Rathe Shop](https://www.rathe.shop)
+* [HobbyMaster](https://hobbymaster.co.nz)
 
-[HobbyMaster](https://hobbymaster.co.nz)
+* [Card Merchant](https://cardmerchant.co.nz)
 
-[Card Merchant](https://cardmerchant.co.nz)
+* [Calico Keep](https://www.calicokeep.com)
 
-[Calico Keep](https://www.calicokeep.com)
+* [Good Games](https://tcg.goodgames.com.au)
 
-[Good Games](https://tcg.goodgames.com.au)
-
-[Midian Gaming](https://midiangaming.com.au)
+* [Midian Gaming](https://midiangaming.com.au)
