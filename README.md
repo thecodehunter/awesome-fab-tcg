@@ -59,7 +59,7 @@ https://www.fabtcg.com
 
 Please note that *most of these stores have worldwide shipping* and the list below is curated from positive feedback on the community and personal experience, stores without proof of reliability or high popular reviews won't be included.
 
-##### United States
+##### United States & Canada
 
 * [FAB Foundry](https://www.fabfoundry.co)
 
@@ -72,6 +72,8 @@ Please note that *most of these stores have worldwide shipping* and the list bel
 * [Team Convenant](https://teamcovenant.com)
 
 * [Troll and Toad](https://www.trollandtoad.com)
+
+* [Red Riot Games](https://www.redriotgames.ca)
 
 ##### EU
 

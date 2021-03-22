@@ -1,13 +1,14 @@
-body{
-    font-family: 'Metropolis-Regular';
+body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: 'Metropolis-Regular';
 }
 
-h1{
+h1 {
     color: #ff0066;
 }
+
 h2, h3, h4 {
     margin-top: 50px;
 }
